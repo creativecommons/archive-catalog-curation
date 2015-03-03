@@ -6,6 +6,6 @@ add description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Ryan Merkley](https://github.com/ryanmerkley)  |
-| Approvers  |   |
-| Contributors | Add yourselves here |
+| Accountable  |   |
+| Consulted | Add yourselves here |
 | Informed | Add yourselves here |
